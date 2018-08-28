@@ -1,0 +1,10 @@
+{
+    "name": "SceneManagement",
+    "references": [
+        "UiGenerics"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
